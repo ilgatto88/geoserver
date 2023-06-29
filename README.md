@@ -21,11 +21,11 @@ Afterwards, the Geoserver container can be started with the following command:
 
 ## Usage
 
-The Apache Tomcat server is running on port 80. The Geoserver can be accessed via `http://localhost:8080/geoserver/web`.
+The Apache Tomcat server is running on port 80. The Geoserver can be accessed via `http://localhost/geoserver/web`.
 
 ## Documentation
 
-[Documentation](https://docs.geoserver.org/)
-[Getting started](https://docs.geoserver.org/latest/en/user/gettingstarted/index.html#getting-started)
-[Uploading shapefiles](https://docs.geoserver.org/latest/en/user/gettingstarted/shapefile-quickstart/index.html)
+[Documentation](https://docs.geoserver.org/)  
+[Getting started](https://docs.geoserver.org/latest/en/user/gettingstarted/index.html#getting-started)  
+[Uploading shapefiles](https://docs.geoserver.org/latest/en/user/gettingstarted/shapefile-quickstart/index.html)  
 [Uploading GeoTIFFs](https://docs.geoserver.org/latest/en/user/gettingstarted/image-quickstart/index.html)
